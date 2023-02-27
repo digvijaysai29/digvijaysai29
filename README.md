@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @digvijaysai29
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...CSS
+- 🌱 I’m currently learning ...Solidity
 - 💞️ I’m looking to collaborate on ...Any projects
 - 📫 How to reach me ...Email me on digvijaysai@yahoo.com
 
