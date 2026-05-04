@@ -5,9 +5,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=digvijaysai29&label=Profile+Views&color=00ff41&style=flat-square" alt="profile views" />
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-digvijay--gujjarlapudi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/digvijay-gujjarlapudi)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-digvijaysai29.github.io-00FF41?style=flat-square&logo=github&logoColor=black)](https://digvijaysai29.github.io)
 
 </div>
 
