@@ -123,8 +123,8 @@ STATUS="Actively hunting bugs & seeking Security roles"
 
 [![Email](https://img.shields.io/badge/Email-digvijaysai293%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digvijaysai293@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/digvijay-gujjarlapudi)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/digvijaysai29)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/digvijaysai29)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/digvijaysai_g)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/digvijaysai_g)
 
 </div>
 
